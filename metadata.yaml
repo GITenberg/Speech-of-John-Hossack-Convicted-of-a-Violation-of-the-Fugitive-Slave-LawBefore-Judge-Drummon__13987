@@ -1,0 +1,31 @@
+_repo: Speech-of-John-Hossack-Convicted-of-a-Violation-of-the-Fugitive-Slave-LawBefore-Judge-Drummon__13987
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hossack, John
+    birthdate: 1806
+    deathdate: 1891
+    gutenberg_agent_id: '5315'
+    url: http://www.gutenberg.org/2009/agents/5315
+    wikipedia: http://en.wikipedia.org/wiki/John_Hossack
+description: ''
+gutenberg_issued: '2004-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13987'
+  lccn: '11008390'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Fugitive slave law (1850)'
+- !lcc 'E300'
+- !lcsh 'Slavery -- United States'
+title: 'Speech of John Hossack, Convicted of a Violation of the Fugitive Slave Law
+
+  Before Judge Drummond, Of The United States District Court, Chicago, Ill.'
+url: http://www.gutenberg.org/ebooks/13987
