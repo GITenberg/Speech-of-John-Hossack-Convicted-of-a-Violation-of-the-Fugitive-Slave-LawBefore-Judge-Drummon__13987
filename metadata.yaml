@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5315
     wikipedia: http://en.wikipedia.org/wiki/John_Hossack
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13987#Speech-of-John-Hossack-Convicted-of-a-Violation-of-the-Fugitive-Slave-LawBefore-Judge-Drummon_
 gutenberg_issued: '2004-11-09'
 gutenberg_type: Text
 identifiers:
